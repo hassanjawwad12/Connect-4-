@@ -1,3 +1,6 @@
+![image](https://github.com/hassanjawwad12/Connect-4-/assets/113373773/fb9a2cad-6570-44b5-b5aa-ec648a0c87c1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
