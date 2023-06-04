@@ -8,7 +8,7 @@ const Footter = ({onNewGameClick,onSuggestClick}) => {
           <button className='button-56' onClick={onNewGameClick}>New Game</button>
           <button className='button-56' onClick={onSuggestClick}>Suggest</button>
       </div>
-      <h1 className='branding' >Made my 
+      <h1 className='branding' >Made by 
           <a
           className='github_link'
            href='https://github.com/hassanjawwad12'>
