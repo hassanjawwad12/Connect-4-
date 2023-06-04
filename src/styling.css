@@ -1,0 +1,19 @@
+.crazy{
+    font-size: 70px;
+    font-weight: 600;
+    background-image:  repeating-radial-gradient(circle closest-corner at 100px 100px, #004E92, #000428 10%, #000428 20%);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-align: center;
+    /*color: #000E92;*/
+
+}
+
+.bg {
+    background-color: #B9FFF8;
+}
+
+.bgg {
+    background-image: linear-gradient(to right,#C193C5, #7BC6CC);
+}
